@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"这是一个Git管理测试demo");
+    NSLog(@"这是第二个分支");
 }
 
 
