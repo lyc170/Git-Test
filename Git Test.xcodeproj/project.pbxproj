@@ -15,6 +15,7 @@
 		8893B6DD205783B0004E3A0F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8893B6DC205783B0004E3A0F /* main.m */; };
 		8893B6E7205783B0004E3A0F /* Git_TestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8893B6E6205783B0004E3A0F /* Git_TestTests.m */; };
 		8893B6F2205783B0004E3A0F /* Git_TestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8893B6F1205783B0004E3A0F /* Git_TestUITests.m */; };
+		8893B7012057843A004E3A0F /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 8893B7002057843A004E3A0F /* Person.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		8893B6ED205783B0004E3A0F /* Git TestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Git TestUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8893B6F1205783B0004E3A0F /* Git_TestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Git_TestUITests.m; sourceTree = "<group>"; };
 		8893B6F3205783B0004E3A0F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8893B6FF2057843A004E3A0F /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		8893B7002057843A004E3A0F /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				8893B6CE205783B0004E3A0F /* AppDelegate.m */,
 				8893B6D0205783B0004E3A0F /* ViewController.h */,
 				8893B6D1205783B0004E3A0F /* ViewController.m */,
+				8893B6FF2057843A004E3A0F /* Person.h */,
+				8893B7002057843A004E3A0F /* Person.m */,
 				8893B6D3205783B0004E3A0F /* Main.storyboard */,
 				8893B6D6205783B0004E3A0F /* Assets.xcassets */,
 				8893B6D8205783B0004E3A0F /* LaunchScreen.storyboard */,
@@ -267,6 +272,7 @@
 			files = (
 				8893B6D2205783B0004E3A0F /* ViewController.m in Sources */,
 				8893B6DD205783B0004E3A0F /* main.m in Sources */,
+				8893B7012057843A004E3A0F /* Person.m in Sources */,
 				8893B6CF205783B0004E3A0F /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
