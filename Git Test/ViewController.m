@@ -22,6 +22,7 @@
      NSLog(@"这是一个Git管理测试demo3");
     NSLog(@"remote");
     NSLog(@"远程");
+    NSLog(@"zaicitijiao ");
 }
 
 
