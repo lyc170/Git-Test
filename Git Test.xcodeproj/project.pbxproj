@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		884CA824205F62E5006B8BC3 /* Son.m in Sources */ = {isa = PBXBuildFile; fileRef = 884CA823205F62E5006B8BC3 /* Son.m */; };
 		8893B6CF205783B0004E3A0F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8893B6CE205783B0004E3A0F /* AppDelegate.m */; };
 		8893B6D2205783B0004E3A0F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8893B6D1205783B0004E3A0F /* ViewController.m */; };
 		8893B6D5205783B0004E3A0F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8893B6D3205783B0004E3A0F /* Main.storyboard */; };
@@ -37,8 +36,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		884CA822205F62E5006B8BC3 /* Son.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Son.h; sourceTree = "<group>"; };
-		884CA823205F62E5006B8BC3 /* Son.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Son.m; sourceTree = "<group>"; };
 		8893B6CA205783B0004E3A0F /* Git Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Git Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8893B6CD205783B0004E3A0F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		8893B6CE205783B0004E3A0F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -111,8 +108,6 @@
 				8893B6CE205783B0004E3A0F /* AppDelegate.m */,
 				8893B6D0205783B0004E3A0F /* ViewController.h */,
 				8893B6D1205783B0004E3A0F /* ViewController.m */,
-				884CA822205F62E5006B8BC3 /* Son.h */,
-				884CA823205F62E5006B8BC3 /* Son.m */,
 				8893B6FF2057843A004E3A0F /* Person.h */,
 				8893B7002057843A004E3A0F /* Person.m */,
 				8893B6D3205783B0004E3A0F /* Main.storyboard */,
@@ -276,7 +271,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				8893B6D2205783B0004E3A0F /* ViewController.m in Sources */,
-				884CA824205F62E5006B8BC3 /* Son.m in Sources */,
 				8893B6DD205783B0004E3A0F /* main.m in Sources */,
 				8893B7012057843A004E3A0F /* Person.m in Sources */,
 				8893B6CF205783B0004E3A0F /* AppDelegate.m in Sources */,
