@@ -10,4 +10,5 @@
 
 @interface Person : NSObject
 @property(nonatomic,copy)NSString *subCode;
+@property(nonatomic,copy)NSString *name;
 @end
