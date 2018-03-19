@@ -23,6 +23,7 @@
     NSLog(@"remote");
     NSLog(@"远程");
     NSLog(@"阿萨德撒地方大师傅");
+    NSLog(@"asdfweqweq");
     
 }
 
