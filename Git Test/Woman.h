@@ -10,4 +10,5 @@
 
 @interface Woman : NSObject
 @property(nonatomic,assign)NSInteger age;
+@property(nonatomic,copy)NSString width;
 @end
