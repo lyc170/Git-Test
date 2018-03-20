@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		884CA827205F6B5A006B8BC3 /* Woman.m in Sources */ = {isa = PBXBuildFile; fileRef = 884CA826205F6B5A006B8BC3 /* Woman.m */; };
-		884CA82D205F704D006B8BC3 /* Man.m in Sources */ = {isa = PBXBuildFile; fileRef = 884CA82C205F704D006B8BC3 /* Man.m */; };
 		8893B6CF205783B0004E3A0F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8893B6CE205783B0004E3A0F /* AppDelegate.m */; };
 		8893B6D2205783B0004E3A0F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8893B6D1205783B0004E3A0F /* ViewController.m */; };
 		8893B6D5205783B0004E3A0F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8893B6D3205783B0004E3A0F /* Main.storyboard */; };
@@ -40,8 +39,6 @@
 /* Begin PBXFileReference section */
 		884CA825205F6B5A006B8BC3 /* Woman.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Woman.h; sourceTree = "<group>"; };
 		884CA826205F6B5A006B8BC3 /* Woman.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Woman.m; sourceTree = "<group>"; };
-		884CA82B205F704D006B8BC3 /* Man.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Man.h; sourceTree = "<group>"; };
-		884CA82C205F704D006B8BC3 /* Man.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Man.m; sourceTree = "<group>"; };
 		8893B6CA205783B0004E3A0F /* Git Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Git Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8893B6CD205783B0004E3A0F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		8893B6CE205783B0004E3A0F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -118,8 +115,6 @@
 				8893B7002057843A004E3A0F /* Person.m */,
 				884CA825205F6B5A006B8BC3 /* Woman.h */,
 				884CA826205F6B5A006B8BC3 /* Woman.m */,
-				884CA82B205F704D006B8BC3 /* Man.h */,
-				884CA82C205F704D006B8BC3 /* Man.m */,
 				8893B6D3205783B0004E3A0F /* Main.storyboard */,
 				8893B6D6205783B0004E3A0F /* Assets.xcassets */,
 				8893B6D8205783B0004E3A0F /* LaunchScreen.storyboard */,
@@ -280,7 +275,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				884CA82D205F704D006B8BC3 /* Man.m in Sources */,
 				8893B6D2205783B0004E3A0F /* ViewController.m in Sources */,
 				8893B6DD205783B0004E3A0F /* main.m in Sources */,
 				8893B7012057843A004E3A0F /* Person.m in Sources */,
